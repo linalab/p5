@@ -1,8 +1,7 @@
 # P5.js
 
 ## **Intro to P5: [https://p5js.org/](https://p5js.org/)**
-
-In this class we’re going to use p5.js, a JavaScript library  based on  [Processing](https://processing.org/) for **creating creative designs**, interaction and more things that can be added on a web.
+p5.js is a JavaScript library  based on  [Processing](https://processing.org/) for **creating creative designs**, interaction and more things that can be added on a web.
 
 Using the original metaphor of **a software sketchbook**, p5.js has a full set of **drawing** functionality. However, you're not limited to your drawing canvas, you can think of your whole browser page as your sketch!
 
@@ -12,7 +11,7 @@ For this, p5.js has [addon libraries](http://p5js.org/libraries/) that make it e
 ℹ️ Some cool examples from the P5 showcase ([https://showcase.p5js.org/#/2022-All](https://showcase.p5js.org/#/2022-All))
 
 </aside>
-
+<br>
 <aside>
 🔹 **Cave - *Sikai Li***
 
@@ -69,17 +68,6 @@ Open: ****[https://p5js.org/learn/coordinate-system-and-shapes.html](https://p5j
 
 In p5, we use code to **draw graphics on a “canvas”.** The canvas displays the output of your code and we use coordinates to know where the pixels are and what do we want to do with them. 
 
-To draw this line: 
-
-![Untitled](P5%20js%2088d5be4fc970487cba52aaf7bdbf2c91/Untitled.png)
-
-The code should be: 
-
-`line(1,0,4,5);`
-
-Just notice that in P5 we use always positive vlalues
-
-![Untitled](P5%20js%2088d5be4fc970487cba52aaf7bdbf2c91/Untitled%201.png)
 
 Let’s start by using the [https://editor.p5js.org/](https://editor.p5js.org/)  great tool to test the code instantly: 
 
